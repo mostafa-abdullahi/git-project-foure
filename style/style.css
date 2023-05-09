@@ -2,7 +2,7 @@ body{
     font-size: 16px;
 }
 *{
-    direction:"rtl";
-    display:"flex";
-    flex-wrap:"wrap";
+    direction:rtl;
+    display:flex;
+    flex-wrap:wrap;
 }
